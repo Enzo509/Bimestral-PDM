@@ -15,7 +15,7 @@ const Login = () => {
     <View style={styles.container}>
       <View style={styles.background}>
       <ImageBackground
-  source={require('./assets/wo.png')}
+  source={require('./wo.png')}
   style={{width: 400, height:400}}
   /></View>
       <View style={styles.loginBox}>
